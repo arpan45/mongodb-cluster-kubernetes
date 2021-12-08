@@ -13,7 +13,7 @@ Some prerequisites:
 In this guide you will get to know how to deploy NoSQL(MongoDB) Cluster on DigitalOcean Kubernetes (DOKS).
 First Signup to DigitalOcean if you havn't already. Signup with the above button to get joining free $100 credit to your account.
 
-> Deployment Video guide [HERE]()
+> Deployment Video guide [HERE](https://youtu.be/V5-0bJXTq4E)
 
 In the dashboard go to kubernetes section.
 ![DigitalOcean Kubernetes](images/doks-1.png)
